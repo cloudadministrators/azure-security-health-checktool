@@ -8,6 +8,19 @@ Highlight Identity Vulnerabilties
 Recommend remediation actions for issues found
 This is a free tool developed by Cloud Administrators free to use for anyone to help you identify Security Compliance issues giving you Cloud Security Best Practice Recommendations saving you time and money on security Azure security audits.
 
+
+# Pre-requisites
+PowerShell 5.0 or higher.
+Windows OS
+
+Recommended
+Windows Server 2016 or later
+
+PLEASE NOTE: 
+Sometimes there are issues running the tool on Win10.
+If so run on Windows Server.
+
+
 # How to use
 Download the tool to a folder
 Run the Exe file
