@@ -22,13 +22,13 @@ If so run on Windows Server.
 
 
 # How to use
-Download the tool to a folder
+1 Download the tool to a folder
 
-Run the Exe file
+2 Run the Exe file
 
-Enter your Azure subscription ID
+3 Enter your Azure subscription ID
 
-Click run and enter your Azure account with minimum read access to the subscription.
+4 Click run and enter your Azure account with minimum read access to the subscription.
 
 Excel files will be generated showing your security compliance issues and vulnerabilities (The folder location will open up)
 
