@@ -6,7 +6,8 @@ Identify Security compliance issues
 Identify Security Vulnerabilities
 Highlight Identity Vulnerabilties
 Recommend remediation actions for issues found
-This is a free tool developed by Cloud Administrators free to use for anyone to help you identify Security Compliance issues giving you Cloud Security Best Practice Recommendations saving you time and money on security Azure security audits.
+
+This is a free tool help you identify Security Compliance issues giving you Cloud Security Best Practice Recommendations saving you time and money on security Azure security audits.
 
 
 # Pre-requisites
